@@ -1,7 +1,7 @@
 public static void main(String[] args) {
-    System.out.println("Hi");
+    System.out.println("Hello");
     //prints hi
     for (int i = 0; i < 20; i++) {
-        System.out.println("21212121  "+i);
+        System.out.println("Hello "+i);
     }   
 }
